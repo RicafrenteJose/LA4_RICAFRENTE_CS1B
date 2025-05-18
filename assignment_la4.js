@@ -32,6 +32,4 @@ function serviceCustomer() {
     console.log("Updated Queue:", customerQueue);
 }
 
-// Sample calls to functions (uncomment to test one by one)
-// addCustomer();
-// serviceCustomer();
+
